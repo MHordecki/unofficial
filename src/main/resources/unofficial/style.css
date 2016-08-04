@@ -1,0 +1,46 @@
+#image-row {
+  padding-top: 10%;
+}
+
+#image-col {
+  text-align: center;
+}
+
+#champion-logo {
+  width: 70%;
+}
+
+#announcement-col {
+  text-align: center;
+}
+
+#data-row {
+  padding-top: 5em;
+}
+
+#leaderboard-picker {
+  display: inline-block;
+}
+
+h2.table-caption {
+  text-align: center;
+}
+
+.inline-logo {
+  height: 1em;
+}
+
+#footer {
+  padding-top: 30em;
+  padding-bottom: 5em;
+  opacity: 0.4;
+  text-align: center;
+}
+
+#footer a {
+  color: inherit;
+}
+
+#footer-img {
+  height: 14pt;
+}

@@ -1,0 +1,50 @@
+{
+  "championshipMatches": [
+    {
+      "id": 2278355542,
+      "league": 3960,
+      "leagueName": "The BTS Series",
+      "winner": 1148284,
+      "winnerName": "MVP Phoenix",
+      "loser": 9896,
+      "loserName": "Can't Say Wips",
+      "duration": 2318,
+      "time": "2016-04-07T12:44:27Z"
+    },
+    {
+      "id": 2285604155,
+      "league": 3960,
+      "leagueName": "The BTS Series",
+      "winner": 2108395,
+      "winnerName": "TNC Pro Team",
+      "loser": 1148284,
+      "loserName": "MVP Phoenix",
+      "duration": 2571,
+      "time": "2016-04-10T11:42:39Z"
+    },
+    {
+      "id": 2287621764,
+      "league": 4554,
+      "leagueName": "ESL One Frankfurt 2016",
+      "winner": 350190,
+      "winnerName": "Fnatic",
+      "loser": 2108395,
+      "loserName": "TNC Pro Team",
+      "duration": 3793,
+      "time": "2016-04-11T10:07:27Z"
+    },
+    {
+      "id": 2316068955,
+      "league": 4357,
+      "leagueName": "ESL One Manila 2016",
+      "winner": 1836806,
+      "winnerName": "the wings gaming",
+      "loser": 350190,
+      "loserName": "Fnatic",
+      "duration": 1587,
+      "time": "2016-04-24T06:21:38Z"
+    }
+  ],
+  "teamLeaderboard": [],
+  "regionLeaderboard": []
+}
