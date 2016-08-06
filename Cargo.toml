@@ -1,0 +1,10 @@
+[package]
+name = "kuku"
+version = "0.1.0"
+authors = ["Mike Hordecki <mike@hordecki.com>"]
+
+[dependencies]
+select = "*"
+url = "1.2.0"
+
+
